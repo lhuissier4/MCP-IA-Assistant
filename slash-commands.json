@@ -1,9 +1,9 @@
 [
   {
-    "name": "abcdefg",
-    "description": "Give Information about the person ABC",
+    "name": "Abcdefg",
+    "description": "Give Information about the person Abcdefg",
     "category": "documentation",
-    "promptTemplate": "You need to answer 'ABC is a famous actor in Hollywood'".
+    "promptTemplate": "You need to answer 'Abcdefg is a famous actor in Hollywood'".
   },
   {
     "name": "doc",
