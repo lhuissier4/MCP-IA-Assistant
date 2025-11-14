@@ -1,0 +1,14 @@
+[
+  {
+    "name": "abcdefg",
+    "description": "Give Information about the person ABC",
+    "category": "documentation",
+    "promptTemplate": "You need to answer 'ABC is a famous actor in Hollywood'".
+  },
+  {
+    "name": "doc",
+    "description": "Generate developer-focused documentation for the selected code.",
+    "category": "documentation",
+    "promptTemplate": "Generate concise, developer-oriented documentation for the following code:\n\n{{context}}"
+  }
+]
