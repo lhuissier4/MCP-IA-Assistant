@@ -1,0 +1,26 @@
+{
+  "name": "mcp-ia-assistant",
+  "version": "1.0.0",
+  "description": "Test des slash commandes MCP dans AI Assistant",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhuissier4/MCP-IA-Assistant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/lhuissier4/MCP-IA-Assistant/issues"
+  },
+  "homepage": "https://github.com/lhuissier4/MCP-IA-Assistant#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.22.0",
+    "zod": "^4.1.13"
+  }
+}
