@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "demo-server": {
-      "command": "node",
+      "command": "/home/user/.nvm/versions/node/v24.8.0/bin/node",
       "args": [
         "server.js"
       ]
